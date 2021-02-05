@@ -1,7 +1,7 @@
 import random, string
 import webbrowser
 import time
-import request
+import requests
 
 print("""
 ███╗░░██╗██╗████████╗██████╗░░█████╗░░░░░░░░██████╗░██╗███████╗████████╗
